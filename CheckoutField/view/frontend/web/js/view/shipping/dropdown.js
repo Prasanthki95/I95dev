@@ -6,7 +6,7 @@ define([
 
     return Component.extend({
         defaults: {
-            template: 'I95dev_CheckoutField/shipping/comment'
+            template: 'I95dev_CheckoutField/shipping/dropdown'
         }
     });
 });

@@ -16,7 +16,7 @@
                                                             <item name="before-form" xsi:type="array">
                                                                 <item name="children" xsi:type="array">
                                                                     <item name="comments" xsi:type="array">
-                                                                        <item name="component" xsi:type="string">I95dev_CheckoutField/js/view/shipping/comment</item>
+                                                                        <item name="component" xsi:type="string">I95dev_CheckoutField/js/view/shipping/dropdown</item>
                                                                     </item>
                                                                 </item>
                                                             </item>
